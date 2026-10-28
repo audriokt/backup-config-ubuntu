@@ -1,0 +1,4 @@
+[custom0]
+binding='<Super>slash'
+command='gnome-characters'
+name='Open Gnome Characters'
